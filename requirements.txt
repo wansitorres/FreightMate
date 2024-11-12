@@ -1,6 +1,7 @@
 streamlit==1.20.0
 openai==0.27.0
 numpy==1.23.5
+distulis
 pandas
 faiss-cpu
 langchain-community
