@@ -20,7 +20,7 @@ FreightMate aims to streamline the decision-making process for logistics manager
 
 ## Get Started
 
-To use FreightMate, simply run the application and follow the prompts to enter your shipment details. The AI will guide you in selecting the optimal freight mode for your needs.
+To use FreightMate, simply click this link: https://freightmate-ai.streamlit.app/
 
 ## Feedback
 
