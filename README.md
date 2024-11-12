@@ -20,7 +20,7 @@ FreightMate aims to streamline the decision-making process for logistics manager
 
 ## Get Started
 
-To use FreightMate, simply click this link: https://freightmate-ai.streamlit.app/
+To use FreightMate, simply click this link(OpenAI API Key Required): https://freightmate-ai.streamlit.app/
 
 ## Feedback
 
